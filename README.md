@@ -34,21 +34,13 @@ Aplikasi ini menggabungkan fungsionalitas manajemen data yang kuat dengan pengal
 
 ---
 
-## 📸 Tampilan Aplikasi
-
-| Dashboard & Statistik | Daftar Tugas (Terurut) | Form Input & Edit |
-| :---: | :---: | :---: |
-| ![Dashboard](https://via.placeholder.com/200x400?text=Dashboard+UI) | ![TaskList](https://via.placeholder.com/200x400?text=TaskList+UI) | ![EditForm](https://via.placeholder.com/200x400?text=EditForm+UI) |
-
----
-
 ## 🚀 Memulai Proyek
 
 Ikuti langkah berikut untuk menjalankan proyek ini di lingkungan pengembangan lokal Anda:
 
 1.  **Clone repositori:**
     ```bash
-    git clone [https://github.com/ekakrisnaferian/agenda-nusantara.git](https://github.com/ekakrisnaferian/agenda-nusantara.git)
+    git clone https://github.com/jooharver/Aplikasi-ToDo-Mobile.git
     ```
 2.  **Masuk ke direktori:**
     ```bash
