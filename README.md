@@ -5,7 +5,7 @@
 [![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white)](https://sqlite.org)
 [![Style](https://img.shields.io/badge/Design-iOS%20Notes-FFB800)](https://apple.com/ios)
 
-**Agenda Nusantara** adalah aplikasi manajemen tugas berbasis mobile yang dirancang dengan estetika minimalis khas **iOS Notes**. Aplikasi ini dibangun sebagai proyek portofolio profesional dan memenuhi kriteria Sertifikasi Kompetensi Mahasiswa Jurusan Teknologi Informasi, Politeknik Negeri Malang.
+**Agenda Nusantara** adalah aplikasi manajemen tugas berbasis mobile yang dirancang dengan estetika minimalis. Aplikasi ini dibangun sebagai proyek portofolio profesional dan memenuhi kriteria Sertifikasi Kompetensi Mahasiswa Jurusan Teknologi Informasi, Politeknik Negeri Malang.
 
 ---
 
